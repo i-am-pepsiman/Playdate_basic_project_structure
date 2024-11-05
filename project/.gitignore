@@ -1,0 +1,10 @@
+# Output files
+*.pdx
+
+# macOS system files
+**/.DS_Store
+
+# VScode build scripts
+.vscode
+closeSim.ps1
+.sentry-native/

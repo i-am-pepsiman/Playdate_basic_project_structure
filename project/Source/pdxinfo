@@ -1,0 +1,7 @@
+name=basic_project_structure
+author=author
+description=basic_playdate_project_structure
+bundleID=com.test.BasicProjectStructure
+version=1.0
+buildNumber=1
+imagePath=SystemAssets

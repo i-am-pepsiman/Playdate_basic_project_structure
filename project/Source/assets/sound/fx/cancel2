@@ -1,0 +1,89 @@
+{
+	"amp_mod": {
+		"arpeggio": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":false,
+		"center":0.50159949064255,
+		"delay_fade":0.78272557258606,
+		"delay_start":0.049600966274738,
+		"depth":0.84169048070908,
+		"enabled":false,
+		"phase":0,
+		"rate":15,
+		"start_phase":0,
+		"type":2
+	},
+	"attack":0.087654456496239,
+	"curvature":0.74679785966873,
+	"decay":0.11930447071791,
+	"duration":0,
+	"freq_mod": {
+		"arpeggio": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":false,
+		"center":0.5,
+		"delay_fade":0,
+		"delay_start":0,
+		"depth":0.15429954230785,
+		"enabled":false,
+		"phase":0,
+		"rate":5,
+		"start_phase":0,
+		"type":6
+	},
+	"lock_note_to_integer":false,
+	"name":"wrong2",
+	"note":37.19709777832,
+	"parameter1_mod": {
+		"arpeggio": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":false,
+		"center":0.5,
+		"delay_fade":0,
+		"delay_start":0,
+		"depth":0.5,
+		"enabled":false,
+		"phase":0,
+		"rate":5,
+		"start_phase":0,
+		"type":1
+	},
+	"parameter2_mod": {
+		"arpeggio": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":false,
+		"center":0.5,
+		"delay_fade":0,
+		"delay_start":0,
+		"depth":0.5,
+		"enabled":false,
+		"phase":0,
+		"rate":5,
+		"start_phase":0,
+		"type":1
+	},
+	"release":0.7322838306427,
+	"sustain":0.19256472587585,
+	"volume":1,
+	"wave":6
+}

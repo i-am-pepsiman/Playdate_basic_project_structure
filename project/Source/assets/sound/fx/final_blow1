@@ -1,0 +1,51 @@
+{
+	"amp_mod": {
+		"arpeggio": [
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":false,
+		"center":0.59294950962067,
+		"delay_fade":0.0062582017853856,
+		"delay_start":0.00051623000763357,
+		"depth":0.35291823744774,
+		"enabled":true,
+		"phase":0,
+		"rate":1.973156452179,
+		"start_phase":0.01027069427073,
+		"type":3
+	},
+	"attack":0.00067974661942571,
+	"curvature":0.50858271121979,
+	"decay":0.00024401728296652,
+	"duration":0,
+	"freq_mod": {
+		"arpeggio": [
+			8.3178853988647,
+			0,
+			0,
+			0,
+			0
+		],
+		"arpeggio_enabled":true,
+		"center":0,
+		"delay_fade":4.9977917671204,
+		"delay_start":0.00074312160722911,
+		"depth":1.7695773839951,
+		"enabled":true,
+		"phase":0,
+		"rate":9.7651176452637,
+		"start_phase":0.66642898321152,
+		"type":3
+	},
+	"lock_note_to_integer":false,
+	"name":"final_blow1",
+	"note":53.56128692627,
+	"release":3.00146484375,
+	"sustain":1,
+	"volume":1,
+	"wave":5
+}
